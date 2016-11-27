@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:androind = "http://schemas.android.com/apk/res/android"
+    androind:id="@+id/fragment_container"
+    androind:layout_width="match_parent"
+    androind:orientation="vertical"
+    androind:layout_height="match_parent">
+
+</LinearLayout>
